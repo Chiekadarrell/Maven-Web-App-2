@@ -1,7 +1,7 @@
-End-to-End Jenkins CI/CD Pipeline Project
+# End-to-End Jenkins CI/CD Pipeline Project
 <img width="525" alt="Maven Web App Arch" src="https://github.com/user-attachments/assets/1df7adfa-3083-4924-bb26-884f14e66541" />
 
-Project ToolBox 🧰
+## Project ToolBox 🧰
 - Git: Git will be used to manage our application source code
 - Github: Github is a free and open source distributed VCS designed to handle everything from small to very large projects with speed and efficiency
 - Jenkins: Jenkins is an open source automation CI tool which enables developers around the world to reliably build, test, and deploy their software
