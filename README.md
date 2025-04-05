@@ -296,13 +296,15 @@
     - Click on `Plugins`
     - Click `Available`
     - Search and Install the following Plugings and `"Install"`
-        - **SonarQube Scanner**
+        - **Pipeliner**
+        - **Stage View**
         - **Maven Integration**
-        - **Pipeline Maven Integration**
-        - **Maven Release Plug-In**
-        - **Slack Notification**
-        - **Nexus Artifact Uploader**
-        - **Build Timestamp (Needed for Artifact versioning)**
+        - **Config File Provider**
+        - **Eclipse Temurin installerVersion**
+        - **SonarQube Scanner**
+        - **Docker**
+        - **Docker Pipeline**
+   
     - Click on `Install`
     - Once all plugins are installed
     - Select/Check the Box **Restart Jenkins when installation is complete and no jobs are running**
