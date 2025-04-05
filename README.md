@@ -17,3 +17,6 @@
 -   Trivy: A security scanner used in Jenkins (or other CI/CD pipelines) to automate vulnerability scanning for your code, containers, and infrastructure-as-code.
 -   Docker: To build an image
 -   Kubernetes: Used for automating the deployment, scaling, and management of containerized applications
+
+# Jenkins Complete CI/CD Pipeline Project Runbook
+
