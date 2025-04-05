@@ -13,7 +13,9 @@
 - [Slack](https://slack.com/) Slack is a communication platform designed for collaboration which can be leveraged to build and develop a very robust DevOps culture. Will be used for Continuous feedback loop.
 - [Prometheus](https://prometheus.io/) Prometheus is a free software application used for event/metric monitoring and alerting for both application and infrastructure.
 - [Grafana](https://grafana.com/) Grafana is a multi-platform open source analytics and interactive visualization web application. It provides charts, graphs, and alerts for the web when connected to supported data sources.
-- [Splunk](https://www.splunk.com/) Splunk is an innovative technology which searches and indexes application/system log files and helps organizations derive insights from the data.
+- Trivy: A security scanner used in Jenkins (or other CI/CD pipelines) to automate vulnerability scanning for your code, containers, and infrastructure-as-code
+- Docker: To build an image
+- Kubernetes: Used for automating the deployment, scaling, and management of containerized applications.
 
 # Jenkins Complete CI/CD Pipeline Project Runbook
 1) Create a GitHub Repository with the name `Jenkins-Realworld-CICD-Project` and push the code in this branch(main) to 
